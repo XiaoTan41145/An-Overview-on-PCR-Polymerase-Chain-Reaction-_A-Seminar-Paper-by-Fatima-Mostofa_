@@ -11,9 +11,7 @@ Topics Covered
 - Types of PCR: RT-PCR, qPCR, Multiplex, etc.  
 - Applications: Disease diagnosis, agriculture, forensic science
 ## Repository Contents  
-- `An_Overview_on_PCR.pdf` – Full seminar paper  
-- `Figures/` – Diagrams and illustrations used in the paper  
-- `References.txt` – Scholarly sources in APA style  
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:3846df82-3afd-49ca-885f-a0a65480036b?comment_id=bb01cd64-8db3-47b2-bbc4-1b80a95c9fb6
 
 ## Sample Visual  
 ![PCR Cycle Diagram](Figures/pcr_cycle_example.png)  
