@@ -13,9 +13,6 @@ Topics Covered
 ## Repository Contents  
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:3846df82-3afd-49ca-885f-a0a65480036b?comment_id=bb01cd64-8db3-47b2-bbc4-1b80a95c9fb6
 
-## Sample Visual  
-![PCR Cycle Diagram](Phone/Pictures/Screenshots/Screenshot_2025-04-10-08-04-54-43_6f8f7a6a69f2aa2976412416ecb84f7a.jpg)  
-
 ## Citation  
 Mostofa, F. (2024). *An Overview on PCR*. Seminar paper, Department of Biotechnology & Genetic Engineering, Sylhet Agricultural University.
 
