@@ -10,3 +10,21 @@ Topics Covered
 - Equipment: Thermal cycler  
 - Types of PCR: RT-PCR, qPCR, Multiplex, etc.  
 - Applications: Disease diagnosis, agriculture, forensic science
+## Repository Contents  
+- `An_Overview_on_PCR.pdf` – Full seminar paper  
+- `Figures/` – Diagrams and illustrations used in the paper  
+- `References.txt` – Scholarly sources in APA style  
+
+## Sample Visual  
+![PCR Cycle Diagram](Figures/pcr_cycle_example.png)  
+
+## Citation  
+Mostofa, F. (2024). *An Overview on PCR*. Seminar paper, Department of Biotechnology & Genetic Engineering, Sylhet Agricultural University.
+
+## Author  
+**Fatima Mostofa**  
+Level-01, Semester-01  
+Department of Biotechnology & Genetic Engineering  
+Sylhet Agricultural University  
+
+🔗 [Connect with me on LinkedIn] (https://www.linkedin.com/in/fatima-mostofa-57a7a2314)
